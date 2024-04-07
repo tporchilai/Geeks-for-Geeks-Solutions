@@ -10,7 +10,6 @@ import java.util.*;
 
 // } Driver Code Ends
 //User function Template for Java
-
 class Geeks{
     
     static void printInFormat(float a, float b){
